@@ -33,9 +33,6 @@ Git | Docker | Apache Spark | Streamlit | FastAPI
 🔹 🚀 Product Recommendation Engine
 Built a recommendation system using collaborative filtering, improving conversion rates by 2x.
 
-🔹 📈 Financial Risk Analysis Dashboard
-Developed a Power BI dashboard for credit risk modeling, enhancing loan approval strategies.
-
 🔹 🌎 Customer Segmentation with K-Means
 Created an ML model for customer clustering, optimizing marketing campaigns and retention.
 
