@@ -1,28 +1,40 @@
 
 
+👋 Hi, I'm Francisco Rosero!
+🚀 Business Intelligence | Data Science | MLOps | Data Product Management
+📍 Quito, Ecuador | 📧 franja_n1994@hotmail.com | 🔗 LinkedIn
 
-- 👋 Hola, soy Francisco 
-- 
-Desde que era un estudiante de universidad me encantaba hacer preguntas y llegar al fondo del asunto. Ahora, en el mundo de los datos, sigo buscando nuevas preguntas
-a diario
+💡 About Me
+I am a Data & Analytics professional with 6+ years of experience in Business Intelligence, Data Science, and Machine Learning Operations (MLOps). My passion lies in turning raw data into actionable insights that drive business growth and decision-making.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+BI & Analytics: Expert in SQL, Python, Power BI, Tableau, and Airflow.
+Machine Learning: Developed recommendation systems, customer segmentation models, and predictive analytics.
+MLOps & Cloud: Experience in Databricks, MLflow, AWS, and Azure for scalable ML deployments.
+Consulting & Strategy: Delivered data-driven solutions for financial institutions, loyalty programs, and digital banking.
+🔧 Tech Stack & Tools
+📊 Business Intelligence & Data Analytics
+SQL | Power BI | Tableau | Looker | Excel (Advanced)
 
-<!---
-froserov/froserov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤖 Machine Learning & AI
+Python | Scikit-learn | TensorFlow | Keras | XGBoost
 
-- 👋 Hi, I’m @froserov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 MLOps & Cloud Computing
+Databricks | MLflow | Docker | Airflow | AWS (S3, Lambda, SageMaker) | Azure
 
-<!---
-froserov/froserov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Dev & Automation
+Git | Docker | Apache Spark | Streamlit | FastAPI
+
+📌 Featured Projects
+🔹 🚀 Product Recommendation Engine
+Built a recommendation system using collaborative filtering, improving conversion rates by 2x.
+
+🔹 📈 Financial Risk Analysis Dashboard
+Developed a Power BI dashboard for credit risk modeling, enhancing loan approval strategies.
+
+🔹 🌎 Customer Segmentation with K-Means
+Created an ML model for customer clustering, optimizing marketing campaigns and retention.
+
+📫 Let's Connect!
+💼 LinkedIn: froserovi
+📧 Email: franja_n1994@hotmail.com
+🚀 Portfolio (Coming Soon!)
