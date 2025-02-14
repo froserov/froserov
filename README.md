@@ -1,11 +1,11 @@
 
 
-👋 **##Hi, I'm Francisco Rosero!**
+👋 **Hi, I'm Francisco Rosero!**
 
 🚀 Business Intelligence | Data Science | MLOps | Data Product Management
 📍 Quito, Ecuador | 📧 franja_n1994@hotmail.com | 🔗 LinkedIn
 
-💡 About Me
+💡 **About Me**
 
 I am a Data & Analytics professional with 6+ years of experience in Business Intelligence, Data Science, and Machine Learning Operations (MLOps). My passion lies in turning raw data into actionable insights that drive business growth and decision-making.
 
@@ -15,7 +15,7 @@ MLOps & Cloud: Experience in Databricks, MLflow, AWS, and Azure for scalable ML 
 Consulting & Strategy: Delivered data-driven solutions for financial institutions, loyalty programs, and digital banking.
 
 
-🔧 Tech Stack & Tools
+🔧 **Tech Stack & Tools**
 📊 Business Intelligence & Data Analytics
 SQL | Power BI | Tableau | Looker | Excel (Advanced)
 
@@ -28,7 +28,7 @@ Databricks | MLflow | Docker | Airflow | AWS (S3, Lambda, SageMaker) | Azure
 🛠️ Dev & Automation
 Git | Docker | Apache Spark | Streamlit | FastAPI
 
-📌 Featured Projects
+📌 **Featured Projects**
 
 🔹 🚀 Product Recommendation Engine
 Built a recommendation system using collaborative filtering, improving conversion rates by 2x.
@@ -39,7 +39,7 @@ Developed a Power BI dashboard for credit risk modeling, enhancing loan approval
 🔹 🌎 Customer Segmentation with K-Means
 Created an ML model for customer clustering, optimizing marketing campaigns and retention.
 
-📫 Let's Connect!
+📫 **Let's Connect!**
 💼 LinkedIn: froserovi
 📧 Email: franja_n1994@hotmail.com
 🚀 Portfolio (Coming Soon!)
