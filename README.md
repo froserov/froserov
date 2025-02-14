@@ -17,10 +17,10 @@ Consulting & Strategy: Delivered data-driven solutions for financial institution
 
 🔧 **Tech Stack & Tools**
 📊 Business Intelligence & Data Analytics
-SQL | Power BI | Tableau | Looker | Excel (Advanced)
+SQL | Power BI | Looker | Excel
 
 🤖 Machine Learning & AI
-Python | Scikit-learn | TensorFlow | Keras | XGBoost
+Python | Scikit-learn | Keras |
 
 🚀 MLOps & Cloud Computing
 Databricks | Docker | Airflow | AWS (S3, Lambda, SageMaker) | Azure
