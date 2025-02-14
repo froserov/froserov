@@ -1,6 +1,6 @@
 
 
-👋 ##**Hi, I'm Francisco Rosero!**
+👋 **##Hi, I'm Francisco Rosero!**
 
 🚀 Business Intelligence | Data Science | MLOps | Data Product Management
 📍 Quito, Ecuador | 📧 franja_n1994@hotmail.com | 🔗 LinkedIn
