@@ -7,11 +7,11 @@
 
 💡 **About Me**
 
-I am a Data & Analytics professional with 6+ years of experience in Business Intelligence, Data Science, and Machine Learning Operations (MLOps). My passion lies in turning raw data into actionable insights that drive business growth and decision-making.
+I am a Data & Analytics professional with 6+ years of experience in Business Intelligence, Data Science, and Machine Learning Operations. My passion lies in turning raw data into actionable insights that drive business growth and decision-making.
 
-BI & Analytics: Expert in SQL, Python, Power BI, Tableau, and Airflow.
+BI & Analytics: Expert in SQL, Python, Power BI and Airflow.
 Machine Learning: Developed recommendation systems, customer segmentation models, and predictive analytics.
-MLOps & Cloud: Experience in Databricks, MLflow, AWS, and Azure for scalable ML deployments.
+MLOps & Cloud: Experience in Databricks, AWS, and Azure for scalable ML deployments.
 Consulting & Strategy: Delivered data-driven solutions for financial institutions, loyalty programs, and digital banking.
 
 
@@ -23,7 +23,7 @@ SQL | Power BI | Tableau | Looker | Excel (Advanced)
 Python | Scikit-learn | TensorFlow | Keras | XGBoost
 
 🚀 MLOps & Cloud Computing
-Databricks | MLflow | Docker | Airflow | AWS (S3, Lambda, SageMaker) | Azure
+Databricks | Docker | Airflow | AWS (S3, Lambda, SageMaker) | Azure
 
 🛠️ Dev & Automation
 Git | Docker | Apache Spark | Streamlit | FastAPI
