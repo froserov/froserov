@@ -39,4 +39,4 @@ Created an ML model for customer clustering, optimizing marketing campaigns and 
 📫 **Let's Connect!**
 💼 LinkedIn: froserovi
 📧 Email: franja_n1994@hotmail.com
-🚀 Portfolio (Coming Soon!)
+🚀 Portfolio :(https://froseroportfolio.my.canva.site/)
